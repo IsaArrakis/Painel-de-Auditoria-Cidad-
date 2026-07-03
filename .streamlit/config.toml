@@ -1,0 +1,11 @@
+[theme]
+# Cor de destaque (Roxo estilo Serenata/Hacker)
+primaryColor = "#9b59b6" 
+
+# Fundos Preto e Cinza Escuro
+backgroundColor = "#000000" 
+secondaryBackgroundColor = "#111111" 
+
+# Fonte de terminal para dar ar de auditoria e facilitar leitura de números
+textColor = "#FFFFFF" 
+font = "monospace"
